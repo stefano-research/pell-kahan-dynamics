@@ -43,9 +43,13 @@ python pell_kahan_motor.py
 Se utilizares este modelo ou código na tua investigação, por favor cita:
 Snippet de código
 
+### BibTeX
+```bibtex
 @article{berioni2026pellkahan,
   title={A Computational Torque Model for Timing Anomalies in Sagittarius A*},
   author={Berioni, Stefano},
-  journal={arXiv preprint arXiv:2602.XXXXX},
-  year={2026}
+  journal={Zenodo Archive / arXiv preprint},
+  year={2026},
+  doi={10.5281/zenodo.18601608},
+  url={[https://doi.org/10.5281/zenodo.18601608](https://doi.org/10.5281/zenodo.18601608)}
 }
